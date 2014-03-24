@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["beneggett@gmail.com"]
   spec.summary       = %q{A collection of useful development gems for Ruby on Rails.}
   spec.description   = %q{Gives you better debugging tools out the gate. See readme for install instructions.}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/beneggett/rails_dev_tools"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
